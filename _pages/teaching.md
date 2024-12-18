@@ -2,18 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
-Courses
 
-### North Carolina State University
+## North Carolina State University
 
 - **MA 141**: Calculus I (Teaching Assistant/Recitation Leader)
 - **MA 341**: Applied Differential Equations I (Lecture Assistant)
 
-### At the high school level:
+## At the high school level:
 
 - **Algebra II**
 - **AP Calculus BC**
@@ -21,4 +20,7 @@ Courses
 - **Linear Algebra**
 - **Multivariable Calculus**
 
+## Tutoring
+I tutor all high school math courses, 100-level and calculus courses and some upper level math courses.
+If you are interested in tutoring, please [Email Me](mailto:lbebby@ncsu.edu).
    
