@@ -8,13 +8,18 @@ nav_order: 6
 ---
 Courses
 
-North Carolina State University:
-MA 141 Calculus I (Teaching Assistant)
-MA 341 Applied Differenial Equations I (Lecture Assistant)
+**North Carolina State University:**  
 
-At the high school level:
-    AP Calculus BC
-    Algebra II
-    Multivariable Calculus
-    Linear Algebra
-    Differential Equations
+    * MA 141 Calculus I (Teaching Assistant/Recitation Leader)  
+
+    * MA 341 Applied Differenial Equations I (Lecture Assistant)  
+
+
+**At the high school level:**
+    * Algebra II
+    * AP Calculus BC
+    * Differential Equations
+    * Linear Algebra
+    * Multivariable Calculus
+
+   
