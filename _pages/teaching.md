@@ -6,7 +6,15 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+Courses
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+North Carolina State University:
+MA 141 Calculus I (Teaching Assistant)
+MA 341 Applied Differenial Equations I (Lecture Assistant)
 
-Organize your courses by years, topics, or universities, however you like!
+At the high school level:
+    AP Calculus BC
+    Algebra II
+    Multivariable Calculus
+    Linear Algebra
+    Differential Equations
