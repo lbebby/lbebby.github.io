@@ -6,11 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: le.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p>Cox Hall 406</p>
-    <p> North Carolina State University</p>
+    <p>555 Cox Hall 406</p>
+    <p>123 North Carolina State University</p>
     <p>Raleigh, NC </p>
 
 news: false # includes a list of news items
