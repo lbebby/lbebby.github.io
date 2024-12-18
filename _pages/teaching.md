@@ -8,7 +8,7 @@ nav_order: 6
 ---
 Courses
 
-**North Carolina State University:**  
+<!-- **North Carolina State University:**  
 
     * MA 141 Calculus I (Teaching Assistant/Recitation Leader)  
 
@@ -20,6 +20,6 @@ Courses
     * AP Calculus BC
     * Differential Equations
     * Linear Algebra
-    * Multivariable Calculus
+    * Multivariable Calculus -->
 
    
