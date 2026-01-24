@@ -10,7 +10,7 @@ nav_order: 4
 #### North Carolina State University
 
 - **MA 141**: Calculus I (Teaching Assistant/Recitation Leader)
-- **MA 242**: Calculus I (Teaching Assistant/Recitation Leader)
+- **MA 242**: Calculus III (Teaching Assistant/Recitation Leader)
 - **MA 341**: Applied Differential Equations I (Lecture Assistant)
 
 
