@@ -9,12 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-    <p> NC State University</p>
-    <p>Raleigh, North Carolina </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in [Biomathematics](http://bma.math.ncsu.edu/) at North Carolina State University. I am advised by [Dr. Mohammad Farazmand](https://www.mfarazmand.com/home). I work on developing data-driven state estimation methods for environmental systems. 
