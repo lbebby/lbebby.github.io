@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Louisa B. Ebby
-    - name: Email 
+    - name: Email
       value: lbebby@ncsu.edu
 
 - title: Education
@@ -15,4 +15,3 @@
     - title: B.A.
       institution: Williams College, Williamstown, MA
       year: 2016-2020
-

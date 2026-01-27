@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -13,7 +13,6 @@ nav_order: 4
 - **MA 242**: Calculus III (Teaching Assistant/Recitation Leader)
 - **MA 341**: Applied Differential Equations I (Lecture Assistant)
 
-
 #### At the high school level:
 
 - **Algebra II**
@@ -23,6 +22,6 @@ nav_order: 4
 - **Multivariable Calculus**
 
 #### Tutoring
+
 I tutor all high school math courses, 100-level and calculus courses and some upper level math courses.
 If you are interested in tutoring, please [email me](mailto:lbebby@ncsu.edu).
-   
