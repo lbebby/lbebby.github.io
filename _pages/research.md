@@ -11,6 +11,6 @@ I work on data-driven modeling and state estimation methods with applications to
 
 # preprints & publications
 
-[**L. B. Ebby** & M. Farazmand. Discrete Empirical Interpolation Method with upper and lower bound constraints. _Submitted, 2025_.](https://arxiv.org/pdf/2509.16018)
+[**L. B. Ebby** & M. Farazmand. Discrete Empirical Interpolation Method with upper and lower bound constraints. _Submitted, September 2025_.](https://arxiv.org/pdf/2509.16018)
 
 C. All, K. Ho, M. Magnuski, C. Nicolaides, **L. B. Ebby**, & M. Farazmand. Rapid estimation of global sea surface temperatures from sparse streaming in situ observations. _Submitted January 2026_.
