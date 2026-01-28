@@ -15,4 +15,4 @@ I currently serve as the treasurer for our [NCSU AWM student chapter](https://wp
 
 # Local Modeling Competition
 
-I organize the NC State portion of local modeling competition for undergraduate students, the [Intercollegiate Math Modeling Challenge](https://sites.duke.edu/im2c/)between NC State and several other institutions.
+I organize the NC State portion of local modeling competition for undergraduate students, the [Intercollegiate Math Modeling Challenge](https://sites.duke.edu/im2c/) between NC State and several other institutions.
