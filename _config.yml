@@ -145,7 +145,7 @@ newsletter:
 collections:
   pages:
     output: true
-    
+
   news:
     defaults:
       layout: post
