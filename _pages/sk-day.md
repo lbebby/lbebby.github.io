@@ -2,7 +2,7 @@
 layout: page
 permalink: /sk-day/
 title: SK Day
-description: NC State's annual math event for middle and high school students
+description: 
 nav: false
 nav_order: 5
 ---
@@ -24,11 +24,11 @@ Participants will explore math applications through hands-on workshops and inter
 
 **Note:** Space is limited and spots are available on a first-come, first-served basis. Registration does not guarantee a spot; we will reach out to successful applicants in early April with additional paperwork.
 
-**Contact:** Louisa Ebby [lbebby@ncsu.edu](mailto:lbebby@ncsu.edu)
+**Contact:** [Louisa Ebby](mailto:lbebby@ncsu.edu)
 
 **Registration Deadline:** April 3, 2026
 
-[Apply Now!](https://forms.gle/2EaDNvo54YePt8ga9)
+# [Apply Now!](https://forms.gle/2EaDNvo54YePt8ga9)
 
 
 
