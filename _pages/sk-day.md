@@ -13,12 +13,12 @@ nav_order: 5
 
 **Date:** April 11, 2026 (9am - 2pm)
 
-**Location:** SAS Hall, NC State
+**Location:** [SAS Hall, NC State](https://facilities.ofa.ncsu.edu/building/sas/)
 
 **Cost:** Free
 
 ## Description:
-On Saturday, April 11th, from 9am to 2pm, the NC State Association for Women in Mathematics is hosting its annual SK Day event! In honor of Sonia Kovalevsky, the first woman to earn a PhD in mathematics, schools across the nation host an SK Day to encourage young women to become more interested in the mathematical sciences. This event is for local students in grades 6-12.
+On Saturday, April 11th, from 9am to 2pm, the NC State Association for Women in Mathematics is hosting its annual SK Day event! In honor of Sonia Kovalevsky, the first woman to earn a PhD in mathematics, schools across the nation host an [SK Day](https://awm-math.org/programs/sk-days/) to encourage young women to become more interested in the mathematical sciences. This event is for local students in grades 6-12.
 
 Participants will explore math applications through hands-on workshops and interact with mathematicians from NC State at all levels. We aim to create an enjoyable and supportive environment for everyone within the mathematics community.
 
