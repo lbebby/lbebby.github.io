@@ -11,7 +11,7 @@ Beyond research, I am dedicated to serving with the community at NC State and be
 
 # Association for Women (AWM) in Math & SK Day
 
-I currently serve as the treasurer for our [NCSU AWM student chapter](https://wp.math.ncsu.edu/awm/). We organize monthly lunches for members of the department. I also organize Sonia Kovalevsky (SK) Day, an outreach event with workshops to inspire an interest in mathematics and problem-solving for local students in grades 6-12.
+I currently serve as the treasurer for our [NCSU AWM student chapter](https://wp.math.ncsu.edu/awm/). We organize monthly lunches for members of the department. I also organize [Sonia Kovalevsky (SK) Day](https://lbebby.github.io/sk-day/), an outreach event with workshops to inspire an interest in mathematics and problem-solving for local students in grades 6-12.
 
 # Local Modeling Competition
 
