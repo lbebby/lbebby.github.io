@@ -68,7 +68,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4.2.2
       - name: Setup Ruby 💎
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1.206.0
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
@@ -78,7 +78,7 @@ jobs:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
       - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
+        uses: fjogeleit/yaml-update-action@v0.15.0
         with:
           commitChange: false
           valueFile: "_config.yml"
@@ -95,6 +95,6 @@ jobs:
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.7.3
         with:
           folder: _site
