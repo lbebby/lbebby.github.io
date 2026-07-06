@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in [Biomathematics](http://bma.math.ncsu.edu/) at North Carolina State University. I am advised by [Dr. Mohammad Farazmand](https://www.mfarazmand.com/home). I work on developing data-driven state estimation methods for environmental systems.
+I am a PhD student in [Biomathematics](https://biomathematics.wordpress.ncsu.edu/) at North Carolina State University. I am advised by [Dr. Mohammad Farazmand](https://www.mfarazmand.com/home). I work on developing data-driven state estimation methods for environmental systems.
 
 Prior to attending graduate school, I taught high school mathematics for three years. I recieved my B.A. in Mathematics and Environmental Studies from [Williams College](https://www.williams.edu/).
