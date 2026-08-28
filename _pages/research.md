@@ -15,4 +15,4 @@ I work on data-driven modeling and state estimation methods with applications to
 
 **L. B. Ebby** & M. Farazmand. Discrete Empirical Interpolation Method with upper and lower bound constraints. Journal of Computational Science, vol. 100, pp. 102983, 2026.
 
-[C. All, K. Ho, M. Magnuski, C. Nicolaides, **L. B. Ebby**, & M. Farazmand. Rapid estimation of global sea surface temperatures from sparse streaming in situ observations. _Submitted January 2026_.](https://arxiv.org/abs/2601.21913)
+C. All, K. Ho, M. Magnuski, C. Nicolaides, **L. B. Ebby**, & M. Farazmand. Rapid estimation of global sea surface temperatures from sparse streaming in situ observations. Journal of Geophysical Research: Machine Learning and Computation, vol. 3 pp. e2026JH001279, 2026.
