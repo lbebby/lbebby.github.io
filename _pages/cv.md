@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: CV_Updated_website.pdf # you can also use external links here
+cv_pdf: CV_Updated_Oct_2026.pdf # you can also use external links here
 description:
 toc:
   sidebar: left
